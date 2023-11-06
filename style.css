@@ -176,7 +176,7 @@ footer{
 .footer-links:hover {
   text-decoration: underline;
   color: white;
-  opacity: 0.7;
+  opacity: 0.8;
 }
 .footer-links:active {
   color: white;
@@ -189,7 +189,7 @@ footer{
 .text-footer{
   color: white;
   padding-top: 3%;
-  opacity: 0.4;
+  opacity: 0.6;
   font-size: 0.83rem;
 }
 .footer-span{
@@ -304,7 +304,7 @@ footer{
    }
    .flow-img{
     position: unset;
-    height: 65px;
+    height: 60px;
    }
    .howItWorks{
     height: 150px;
@@ -346,6 +346,12 @@ footer{
   }
   .eline-img{
     height: 100px;
+  }
+  .back-to-top-button {
+    background-color: #5DA312;
+  }
+  .back-to-top-button:hover{
+    background-color: #81ee0d;
   }
 }
 
